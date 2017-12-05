@@ -1,0 +1,22 @@
+{
+  "name": "CryptoTracker",
+  "version": "0.0.3",
+  "description": "CryptoCurrency Market Tracker",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/uGiFarukh/CryptoTracker",
+  "keywords": [
+    "Electron",
+    "cryptocurrency",
+    "javascript",
+    "market-data",
+    "Beta"
+  ],
+  "author": "Farukh Khan & RayDvard",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "1.7.9"
+  }
+}
