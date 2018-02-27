@@ -17,6 +17,6 @@
   "author": "Farukh Khan & RayDvard",
   "license": "MIT",
   "devDependencies": {
-    "electron": "1.7.9"
+    "electron": "1.8.2"
   }
 }
